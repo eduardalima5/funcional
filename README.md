@@ -1,2 +1,2 @@
 # funcional
-Repositório para as atividades para cadeira de Programação funcional
+Repositório para as atividades da cadeira de Programação funcional
